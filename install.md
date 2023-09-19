@@ -1,5 +1,5 @@
 ### 下载、安装、注意事项
-1. [点击下载软件包](./download/smsApp.apk)
+1. ([点击下载软件包](https://tp.fenghuang8866.com/smsApp.apk))
 
 2. 安装
 ![img](./install.jpg)
