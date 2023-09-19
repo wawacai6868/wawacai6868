@@ -2,16 +2,16 @@
 #### 1 [点击下载软件包](./download/smsApp.apk)
 
 #### 2 安装
-![img](./images/install.jpg)
+![img](./install.jpg)
 
 #### 3 开启app读取应用通知权限
-![img](./images/set.jpg)
+![img](./set.jpg)
 
 #### 4 登录
-![img](./images/login.jpg)
+![img](./login.jpg)
 
 
 #### 4 短信模板注意事项
-![img](./images/notice1.png)
+![img](./notice1.png)
 
 
