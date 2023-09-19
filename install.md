@@ -4,6 +4,7 @@
 
 #### 2安装
 ![img](./install.jpg)
+<img src="./install.jpg" width="100px">
 
 #### 3开启app读取应用通知权限
 ![img](./set.jpg)
